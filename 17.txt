@@ -1,0 +1,3 @@
+Python Developer - Django/FlaskRemah IT
+
+Understand the business requirement and transforming into business solutions and designing the db relational model,data warehousing experience,strong domain knowledge Work experience in a statistical programming language like (R,Python) etcResponsibilities : - Work experience as a Python Developer  Strong experience in creating database objects using PLSQL

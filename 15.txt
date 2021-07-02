@@ -1,0 +1,3 @@
+Data Engineer / ML Ops / Python DeveloperQuality Engineering  Software Technologies Pvt. Ltd.
+
+Good to have working exposure in common cloud environments and understanding of robust on premise data science infrastructureExperience with scheduling tools like airflow,Luigi etcMLOps with experience on tools like MLOps,Kubeflow,ClearML or custom build tools for CI,CD automation for ML Ops Experience in Product development using Python
